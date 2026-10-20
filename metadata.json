@@ -1,0 +1,6 @@
+{
+  "name": "Sombrero Galaxy 3D Live NFT Studio",
+  "description": "Interactive real-time 3D Sombrero Galaxy (Messier 104) NFT visualizer with complete OpenSea-compliant 3D asset download bundle, 4K poster generator, and metadata forge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
